@@ -8,4 +8,4 @@ MMPose主页：https://github.com/open-mmlab/mmpose
 
 代码测试[云GPU环境](https://featurize.cn?s=d7ce99f842414bfcaea5662a97581bd1)：GPU RTX 3060、CUDA v11.2
 
-该仓库内容fork自 github.com/TommyZihao/MMPose_Tutorials
+该仓库内容fork自 https://github.com/TommyZihao/MMPose_Tutorials
